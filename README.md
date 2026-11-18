@@ -1,19 +1,26 @@
-### Rugved Zarkar
+# Rugved Zarkar
 
-Computer Science student at the University of Maryland, College Park (expected May 2028, GPA 3.83). Incoming Software Engineer Intern on the Domain Name Services team at AWS. Currently a Software Engineer Intern at IBM, working on recursive DNS infrastructure. Founder of RAGent LLC, an AI startup building RAG pipelines for enterprise and education clients.
+Computer Science @ University of Maryland, Class of 2028
 
-**Currently building**
-- `harnessflow` — Open-source framework that compiles YAML-defined AI agent pipelines into deterministic, Temporal-orchestrated workflows, with a Go/Python runtime and eval-gated CI (LLM-as-judge, embedding similarity, cost/latency scorers)
-- `Lane-Optimize` — Reinforcement learning for real-time highway lane optimization in SUMO (from-scratch PyTorch DQN, SB3 PPO, multi-agent shared PPO, live FastAPI/React dashboard)
+Software Engineering Intern @ AWS | Previously IBM & NIST
 
-**Experience**
-- **AWS** — Incoming Software Engineer Intern, Domain Name Services (Aug 2026)
-- **IBM** — Software Engineer Intern, Cloud Networking (May 2026–present): scaled a recursive DNS platform 10x to 1M+ QPS, cut node provisioning from days to under 3 minutes with Ansible automation
-- **RAGent LLC** — Founder & Lead Software Developer (Jan 2025–Apr 2026): built RAG pipelines (LlamaIndex, FastAPI, OpenAI API, Weaviate) generating $20K+ ARR across a 20+ person org; delivered an AWS-native document translation pipeline for a McKinsey-backed education nonprofit
-- **NIST** — Software Engineer Intern (May 2025–Mar 2026): built AI-driven metrology pipelines (PyTorch, TensorFlow, Scikit-Learn) including a fine-tuned DDPM for SEM image enhancement, reducing measurement uncertainty by 50%
-- **UMIACS, University of Maryland** — Software Research Assistant (Aug 2024–present): firmware and sensor integration for the Calico wearable robotics platform (ACM IMWUT-published, featured in IEEE Spectrum and The Verge)
+I'm a software engineer interested in **distributed systems, cloud infrastructure, backend engineering, and reliable AI systems**.
 
-**Contact**
-- Portfolio: rzarka1298.github.io
-- LinkedIn: linkedin.com/in/rugved-zarkar
-- Email: rugvedzarkar@gmail.com
+### Engineering Experience
+
+- **AWS:** Building backend and distributed infrastructure for low-latency domain classification, connecting cloud networking services with AI policy evaluation.
+- **IBM Cloud:** Optimized recursive DNS infrastructure, scaling tested throughput from 100K to 1M+ queries per second and automating infrastructure provisioning to under 3 minutes.
+- **NIST:** Researched AI-assisted semiconductor microscopy and co-authored a submitted conference extended abstract evaluating SEM inpainting pipelines.
+- **UMIACS:** Developing embedded firmware and touchscreen interfaces for the Calico wearable robotics platform.
+- **RAGent:** Co-founded an AI software business developing document intelligence systems for education-sector organizations.
+
+### Selected Projects
+
+**[HarnessFlow](https://github.com/rzarka1298/harnessflow)** — Durable AI coding-agent harness with Temporal orchestration, isolated Git worktrees, and deterministic acceptance checks.
+
+**Claude Command Center** — Local-first orchestration for Claude Code sessions, tasks, and persistent project knowledge.
+
+### Connect
+
+- [Portfolio](https://www.rugvedzarkar.dev/)
+- [LinkedIn](https://www.linkedin.com/in/rugved-zarkar)
